@@ -1,0 +1,118 @@
+@media (max-width: 425px){
+.nav_bar{
+    display: flex;
+    flex-direction: column;
+}
+.col_1{
+    width: 100%;
+    background-size: cover;
+    background-position: left;
+    height: 1000px
+}
+.logo img{
+    width: 100%;
+}
+.burger_menu{
+    display: block;
+    text-align: center;
+}
+.down{
+    display: block;
+}
+.col_2{
+    width: 100%;
+}
+.nav{
+    display: none;
+}
+.title {
+    margin-left: 14%;
+}
+h3{
+    font-size: 21px;
+}
+h1, .span_2{
+    font-size: 43px;
+}
+h1::before {
+    width: 7px;
+    height: 141px;
+    top: 11px;
+    
+}
+.slider{
+    padding-bottom: 30%;
+}
+.slider .slick-arrow.slick-prev, .slider .slick-arrow.slick-next {
+    display: none;
+}
+.slider .slick-dots li button{
+    display: none;
+}
+.button {
+    width: 200px;
+    height: 46px;
+}
+.images {
+    left: 10%;
+}
+}
+@media (max-width: 425px){
+.nav_bar{
+    display: flex;
+    flex-direction: column;
+}
+.col_1{
+    width: 100%;
+    background-size: cover;
+    background-position: left;
+    height: 1000px
+}
+.logo img{
+    width: 100%;
+}
+.burger_menu{
+    display: block;
+    text-align: center;
+}
+.down{
+    display: block;
+}
+.col_2{
+    width: 100%;
+}
+.nav{
+    display: none;
+}
+.title {
+    margin-left: 14%;
+}
+h3{
+    font-size: 21px;
+}
+h1, .span_2{
+    font-size: 43px;
+}
+h1::before {
+    width: 7px;
+    height: 141px;
+    top: 11px;
+    
+}
+.slider{
+    padding-bottom: 30%;
+}
+.slider .slick-arrow.slick-prev, .slider .slick-arrow.slick-next {
+    display: none;
+}
+.slider .slick-dots li button{
+    display: none;
+}
+.button {
+    width: 200px;
+    height: 46px;
+}
+.images {
+    left: 10%;
+}
+}
